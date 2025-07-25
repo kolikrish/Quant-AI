@@ -16,7 +16,7 @@
 ---
 
 ## Purpose
-Quant was created to address the challenges users face when trying to manually review and optimize their social media performance. With Quant, users gain a comprehensive understanding of their social media metrics and receive suggestions to enhance their online visibility.
+Quant was created to address the challenges users face when trying to manually review and optimize their social media performance with Quant, users gain a comprehensive understanding of their social media metrics and receive suggestions to enhance their online visibility.
 
 ---
 
