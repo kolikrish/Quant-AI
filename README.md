@@ -93,7 +93,7 @@ We welcome contributions to enhance Quant. To contribute:
 
 1. Clone the repository:
    bash
-   git clone []
+   git clone https://github.com/kolikrish/Quant-AI.git
    
 2. Create a Virtual Environment to manage dependencies:
    bash
