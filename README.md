@@ -16,7 +16,7 @@
 ---
 
 ## Purpose
-Quant was created to address the challenges users face when trying to manually review and optimize their social media performance. With Quant, users gain a comprehensive understanding of their social media metrics and receive suggestions to enhance their online visibility.
+Quant was created to address the challenges users face when trying to manually review and optimize their social media performance with Quant, users gain a comprehensive understanding of their social media metrics and receive suggestions to enhance their online visibility.
 
 ---
 
@@ -93,7 +93,7 @@ We welcome contributions to enhance Quant. To contribute:
 
 1. Clone the repository:
    bash
-   git clone []
+   git clone https://github.com/kolikrish/Quant-AI.git
    
 2. Create a Virtual Environment to manage dependencies:
    bash
