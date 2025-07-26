@@ -13,7 +13,7 @@ const About = () => {
       linkedin: "https://www.linkedin.com/in/bais-akash/"
     },
     {
-      name: "krish koli",
+      name: "Mandeep Yadav",
       role: "Full Stack Developer",
       image: "https://mandeepyadav.vercel.app/me.jpg",
       linkedin: "https://www.linkedin.com/in/mandeepyadav27/"
@@ -31,10 +31,10 @@ const About = () => {
       linkedin: "https://www.linkedin.com/in/nawadha-jadiya-aab426253/"
     },
     {
-      name: "Sneha Yadav",
-      role: "UI and Design",
+      name: "Krish koli",
+      role: "Fronted Developer and UI designer",
       image: "https://res.cloudinary.com/dikkjtvur/image/upload/v1736442411/WhatsApp_Image_2025-01-09_at_10.34.44_PM_ypc2o3.jpg",
-      linkedin: "https://www.linkedin.com/in/sneha-yadav-02909021b/"
+      linkedin: "",
     }
   ];
 

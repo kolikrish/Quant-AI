@@ -11,7 +11,7 @@ import { URL } from './constant/url';
 
 
 const Analysis = () => {
-  const { theme } = useTheme()
+  const { theme } = useTheme();
   const location = useLocation();
   const navigate = useNavigate();
   const [data, setData] = useState(null);
